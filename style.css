@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  width: 30px;
+  margin: 2px;
+}
+
+.main {
+  margin: auto;
+  max-width: 15%;
+  border: 1px solid black;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculation {
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
